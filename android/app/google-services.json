@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "740295515224",
+    "project_id": "meal-recipes-notebook",
+    "storage_bucket": "meal-recipes-notebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740295515224:android:25156ad3778c3b4422be2d",
+        "android_client_info": {
+          "package_name": "com.example.meal_recipes_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740295515224-24m49n7v7vdtu0m75omnf2smqfqmlcsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxlm8qbDuULxNTMYvduRT7rxqFOv1w1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740295515224-24m49n7v7vdtu0m75omnf2smqfqmlcsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740295515224:android:cb1e01f2eb5bf6ba22be2d",
+        "android_client_info": {
+          "package_name": "com.example.recipe_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740295515224-24m49n7v7vdtu0m75omnf2smqfqmlcsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxlm8qbDuULxNTMYvduRT7rxqFOv1w1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740295515224-24m49n7v7vdtu0m75omnf2smqfqmlcsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
