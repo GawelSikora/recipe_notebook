@@ -1,11 +1,11 @@
 class ItemsModel {
   final String mealName;
-  final String ingridience;
+  final String ingredients;
   final String recipe;
 
   ItemsModel(
     this.mealName,
-    this.ingridience,
+    this.ingredients,
     this.recipe,
   );
 }

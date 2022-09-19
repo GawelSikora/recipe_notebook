@@ -26,7 +26,7 @@ class _SingleRecipePageState extends State<SingleRecipePage> {
             child: SizedBox(
               child: Stack(
                 children: [
-                  const Background3(),
+                  const Background2(),
                   ListView(
                     children: const [
                       Center(
@@ -52,7 +52,7 @@ class _SingleRecipePageState extends State<SingleRecipePage> {
           )),
       body: Stack(
         children: [
-          const Background3(),
+          const Background2(),
           ListView(
             children: [
               const Image(

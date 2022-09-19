@@ -23,7 +23,7 @@ class Background2 extends StatelessWidget {
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 1, crossAxisSpacing: 0, mainAxisSpacing: 0),
         itemBuilder: (context, index) {
-          return const Image(image: AssetImage('assets/images/wood8.jpg'));
+          return const Image(image: AssetImage('assets/images/paper4.jpg'));
         });
   }
 }
@@ -37,7 +37,7 @@ class Background3 extends StatelessWidget {
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 1, crossAxisSpacing: 0, mainAxisSpacing: 0),
         itemBuilder: (context, index) {
-          return const Image(image: AssetImage('assets/images/paper4.jpg'));
+          return const Image(image: AssetImage('assets/images/yellow.jpg'));
         });
   }
 }
